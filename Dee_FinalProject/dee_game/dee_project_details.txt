@@ -1,0 +1,11 @@
+Project Title: Dee's Flap & Track
+
+Project Description: My project is a personalized take on the classic Flappy Bird that features unique custom graphics and an integrated "data analytics" 
+dashboard to track your progress and game metrics across every flight. It took me a lot of time to build and document it but I had a lot of fun along the way!!
+
+Published GitHub Project Link: https://github.com/DeeKim1999/Dee_CodeInPlace2025-FinalProject.git
+
+YouTube Demo Link: https://youtu.be/DGFmzuwH-NY
+
+
+★★★★ daniella kim ★★★★
