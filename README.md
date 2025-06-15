@@ -52,7 +52,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-Before you begin, ensure you have Python installed on your system. This project uses:
+Before you begin, please check if you have Python installed on your system. My project uses:
 * Python 3.x
 * `pygame`
 * `pandas`
